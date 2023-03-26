@@ -6,7 +6,6 @@ public class Main {
         int wage = employee.calculateWage(20);
 
         System.out.println(wage);
-//        var browser = new Browser();
         Employee.printNumberOfEmployees();
 
 
