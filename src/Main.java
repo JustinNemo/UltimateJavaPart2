@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println(wage);
 //        var browser = new Browser();
+        Employee.printNumberOfEmployees();
 
 
     }
